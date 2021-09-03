@@ -1,0 +1,5176 @@
+{
+  "data": [
+    {
+      "categoryName": "Abs",
+      "Beginner": [
+        {
+          "time": 15,
+          "exlist": [
+            "LEG DROPS",
+            "LEG CIRCLES",
+            "REVERSE CRUNCH",
+            "HEEL TOUCHES",
+            "PLANK",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 15,
+          "exlist": [
+            "LEG DROPS",
+            "FLUTTER KICKS",
+            "SCISSOR KICKS",
+            "MOUNTAIN CLIMBERS",
+            "V-CRUNCHES",
+            "PLANK",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 15,
+          "exlist": [
+            "ALTERNATING TOE TOUCHES",
+            "RUSSIAN TWISTS",
+            "REVERSE CRUNCH",
+            "PLANK",
+            "SIDE PLANK",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 15,
+          "exlist": [
+            "CRUNCH",
+            "CRUNCH WITH LEG LIFT",
+            "BICYCLE CRUNCH",
+            "SINGLE LEG DROPS",
+            "FLUTTER KICKS",
+            "SCISSOR KICKS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 20,
+          "exlist": [
+            "LEG DROPS",
+            "LEG CIRCLES",
+            "REVERSE CRUNCH",
+            "HEEL TOUCHES",
+            "PLANK",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 20,
+          "exlist": [
+            "LEG DROPS",
+            "FLUTTER KICKS",
+            "SCISSOR KICKS",
+            "MOUNTAIN CLIMBERS",
+            "V-CRUNCHES",
+            "PLANK",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 20,
+          "exlist": [
+            "ALTERNATING TOE TOUCHES",
+            "RUSSIAN TWISTS",
+            "PLANK",
+            "SIDE PLANK",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 20,
+          "exlist": [
+            "CRUNCH",
+            "CRUNCH WITH LEG LIFT",
+            "BICYCLE CRUNCH",
+            "SINGLE LEG DROPS",
+            "FLUTTER KICKS",
+            "SCISSOR KICKS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 20,
+          "exlist": [
+            "LEG LIFT",
+            "MOUNTAIN CLIMBERS",
+            "PLANK",
+            "MOUNTAIN CLIMBERS",
+            "PLANK",
+            "PLANK WITH HIP TWIST",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 25,
+          "exlist": [
+            "LEG DROPS",
+            "LEG CIRCLES",
+            "REVERSE CRUNCH",
+            "STARFISH CRUNCH",
+            "HEEL TOUCHES",
+            "PLANK",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 25,
+          "exlist": [
+            "LEG DROPS",
+            "FLUTTER KICKS",
+            "SCISSOR KICKS",
+            "MOUNTAIN CLIMBERS",
+            "V-CRUNCHES",
+            "PLANK",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 25,
+          "exlist": [
+            "ALTERNATING TOE TOUCHES",
+            "RUSSIAN TWISTS",
+            "PLANK",
+            "SIDE PLANK",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 25,
+          "exlist": [
+            "CRUNCH",
+            "CRUNCH WITH LEG LIFT",
+            "BICYCLE CRUNCH",
+            "SINGLE LEG DROPS",
+            "FLUTTER KICKS",
+            "SCISSOR KICKS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 25,
+          "exlist": [
+            "LEG LIFT",
+            "MOUNTAIN CLIMBERS",
+            "PLANK",
+            "MOUNTAIN CLIMBERS",
+            "PLANK",
+            "PLANK WITH HIP TWIST",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "LEG DROPS",
+            "FLUTTER KICKS",
+            "SCISSOR KICKS",
+            "MOUNTAIN CLIMBERS",
+            "V-CRUNCHES",
+            "ALTERNATING TOE TOUCHES",
+            "RUSSIAN TWISTS",
+            "PLANK",
+            "SIDE PLANK",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "CRUNCH",
+            "CRUNCH WITH LEG LIFT",
+            "BICYCLE CRUNCH",
+            "SINGLE LEG DROPS",
+            "FLUTTER KICKS",
+            "SCISSOR KICKS",
+            "LEG LIFT",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "MOUNTAIN CLIMBERS",
+            "PLANK",
+            "MOUNTAIN CLIMBERS",
+            "PLANK",
+            "PLANK WITH HIP TWIST",
+            "SPIDER PLANK",
+            "SIDE PLANK PULL",
+            "SIDE PLANK",
+            "SIDE PLANK PULL",
+            "SIDE PLANK",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "SIDE HIP RAISE L",
+            "FLUTTER KICKS",
+            "SIDE HIP RAISE R",
+            "CRISS-CROSS CRUNCH",
+            "REVERSE CRUNCH",
+            "RUSSIAN TWIST",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "MOUNTAIN CLIMBERS",
+            "RUSSIAN TWISTS",
+            "SINGLE LEG DROPS",
+            "DOUBLE LEG CIRCLES",
+            "FLUTTER KICKS (60 SECONDS)",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "LONG ARM CRUNCHES",
+            "PULSE-UPS",
+            "TOE TAPS",
+            "PLANK WITH HIP TWIST",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "KNEE CRUNCHES",
+            "CRUNCH KICKS",
+            "V-UPS",
+            "LEFT SIDE PLANK",
+            "RIGHT SIDE PLANK",
+            "REPEAT X2"
+
+
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "STARTFISH CRUNCH",
+            "MOUNTAIN CLIMBERS",
+            "RUSSIAN TWISTS",
+            "SINGLE LEG DROPS",
+            "DOUBLE LEG CIRCLES",
+            "FLUTTER KICKS (60 SECONDS)",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "LEG DROPS",
+            "LEG CIRCLES",
+            "REVERSE CRUNCH",
+            "STARFISH CRUNCH",
+            "HEEL TOUCHES",
+            "PLANK",
+            "REPEAT X2"
+
+
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "LEG DROPS",
+            "FLUTTER KICKS",
+            "SCISSOR KICKS",
+            "MOUNTAIN CLIMBERS",
+            "V-CRUNCHES",
+            "PLANK",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "CRUNCH",
+            "CRUNCH WITH LEG LIFT",
+            "BICYCLE CRUNCH",
+            "SINGLE LEG DROPS",
+            "FLUTTER KICKS",
+            "SCISSOR KICKS",
+            "LEG LIFT",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+          ]
+        }
+      ],
+      "Intermediate": [
+        {
+          "time": 30,
+          "exlist": [
+            "SIDE HIP RAISE L",
+            "FLUTTER KICKS",
+            "SIDE HIP RAISE R",
+            "CRISS-CROSS CRUNCH",
+            "WINDSHIELD WIPERS",
+            "REVERSE CRUNCH",
+            "RUSSIAN TWIST",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "KNEE TUCK CRUNCHES",
+            "BACK EXTENSIONS",
+            "STARFISH CRUNCHES",
+            "PLANK EXTENSIONS",
+            "CRUNCHES",
+            "PLANKS",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "WINDMILLS",
+            "STARFISH CRUNCH",
+            "MOUNTAIN CLIMBERS",
+            "RUSSIAN TWISTS",
+            "SPIDERMAN PLANKS",
+            "REPEAT X2"
+
+
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+
+
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "RUSSIAN TWISTS",
+            "SPIDERMAN PLANKS",
+            "SINGLE LEG DROPS",
+            "DOUBLE LEG CIRCLES",
+            "FLUTTER KICKS",
+            "REPEAT X2"
+
+
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "HEEL TOUCHES",
+            "SINGLE KNEE RAISE CRUNCH",
+            "STARFISH CRUNCH",
+            "WINDMILLS",
+            "REPEAT X2"
+
+
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "LEG DROPS",
+            "SINGLE LEG DROPS",
+            "HIP PULSES",
+            "HIGH PLANK",
+            "UPWARD DOG STRETCH",
+            "SCISSOR KICK DROPS",
+            "CRUNCHES",
+            "BICYCLES",
+            "REPEAT X2"
+
+
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+
+
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "LEG DROPS",
+            "SINGLE LEG DROPS",
+            "HIP PULSES",
+            "HIGH PLANK",
+            "UPWARD DOG STRETCH",
+            "SCISSOR KICK DROPS",
+            "CRUNCHES",
+            "BICYCLES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "HEEL TOUCHES",
+            "SINGLE KNEE RAISE CRUNCH",
+            "WIDE TOE TOUCHES",
+            "STARFISH CRUNCH",
+            "WINDMILLS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "RUSSIAN TWISTS",
+            "SPIDERMAN PLANKS",
+            "SINGLE LEG DROPS",
+            "DOUBLE LEG CIRCLES",
+            "FLUTTER KICKS",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "WINDMILLS",
+            "STARFISH CRUNCH",
+            "MOUNTAIN CLIMBERS",
+            "RUSSIAN TWISTS",
+            "SPIDERMAN PLANKS",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "SPIDERMAN PLANKS",
+            "KNEE TUCK CRUNCHES",
+            "BACK EXTENSIONS",
+            "STARFISH CRUNCHES",
+            "PLANK EXTENSIONS",
+            "CRUNCHES",
+            "PLANKS",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "SIDE HIP RAISE L",
+            "FLUTTER KICKS",
+            "SIDE HIP RAISE R",
+            "CRISS-CROSS CRUNCH",
+            "WINDSHIELD WIPERS",
+            "REVERSE CRUNCH",
+            "RUSSIAN TWIST",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 45,
+          "exlist": [
+            "LEG DROPS",
+            "SINGLE LEG DROPS",
+            "HIP PULSES",
+            "HIGH PLANK",
+            "UPWARD DOG STRETCH",
+            "SCISSOR KICK DROPS",
+            "CRUNCHES",
+            "BICYCLES",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 45,
+          "exlist": [
+            "HEEL TOUCHES",
+            "SINGLE KNEE RAISE CRUNCH",
+            "WIDE TOE TOUCHES",
+            "STARFISH CRUNCH",
+            "WINDMILLS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 45,
+          "exlist": [
+            "RUSSIAN TWISTS",
+            "SPIDERMAN PLANKS",
+            "SINGLE LEG DROPS",
+            "DOUBLE LEG CIRCLES",
+            "FLUTTER KICKS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 45,
+          "exlist": [
+            "WINDMILLS",
+            "STARFISH CRUNCH",
+            "MOUNTAIN CLIMBERS",
+            "RUSSIAN TWISTS",
+            "SPIDERMAN PLANKS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 45,
+          "exlist": [
+            "SPIDERMAN PLANKS",
+            "KNEE TUCK CRUNCHES",
+            "BACK EXTENSIONS",
+            "STARFISH CRUNCHES",
+            "PLANK EXTENSIONS",
+            "CRUNCHES",
+            "PLANKS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 45,
+          "exlist": [
+            "SIDE HIP RAISE L",
+            "FLUTTER KICKS",
+            "SIDE HIP RAISE R",
+            "CRISS-CROSS CRUNCH",
+            "WINDSHIELD WIPERS",
+            "REVERSE CRUNCH",
+            "RUSSIAN TWIST",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 50,
+          "exlist": [
+            "SIDE HIP RAISE L",
+            "FLUTTER KICKS",
+            "SIDE HIP RAISE R",
+            "CRISS-CROSS CRUNCH",
+            "WINDSHIELD WIPERS",
+            "REVERSE CRUNCH",
+            "RUSSIAN TWIST",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 50,
+          "exlist": [
+            "SPIDERMAN PLANKS",
+            "KNEE TUCK CRUNCHES",
+            "BACK EXTENSIONS",
+            "STARFISH CRUNCHES",
+            "PLANK EXTENSIONS",
+            "CRUNCHES",
+            "PLANKS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 50,
+          "exlist": [
+            "WINDMILLS",
+            "STARFISH CRUNCH",
+            "MOUNTAIN CLIMBERS",
+            "RUSSIAN TWISTS",
+            "SPIDERMAN PLANKS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 50,
+          "exlist": [
+            "RUSSIAN TWISTS",
+            "SPIDERMAN PLANKS",
+            "SINGLE LEG DROPS",
+            "DOUBLE LEG CIRCLES",
+            "FLUTTER KICKS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+          ]
+        }
+      ],
+      "Advanced": [
+        {
+          "time": 30,
+          "exlist": [
+            "SIT-UP",
+            "LEG RAISE",
+            "KNEE PULL-IN",
+            "TOE TOUCHER",
+            "CRUNCH",
+            "REVERSE CRUNCH",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "CRUNCH",
+            "BICYCLE CRUNCH",
+            "PLANK",
+            "SIDE PLANK",
+            "RUSSIAN TWIST",
+            "STARFISH CRUNCH",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "LONG ARM CRUNCHES",
+            "RUSSIAN TWISTS",
+            "HEEL TOUCHES",
+            "PLANK",
+            "SLOW CLIMBERS",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "KNEE CRUNCHES",
+            "LEG RAISES",
+            "FLUTTER KICKS",
+            "CROSS CRUNCHES",
+            "HEEL TOUCHES",
+            "ELBOW PLANK",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "SIT-UP",
+            "LEG RAISE",
+            "KNEE PULL-IN",
+            "TOE TOUCHER",
+            "CRUNCH",
+            "REVERSE CRUNCH",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "CRUNCH",
+            "BICYCLE CRUNCH",
+            "PLANK",
+            "SIDE PLANK",
+            "RUSSIAN TWIST",
+            "STARFISH CRUNCH",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "LONG ARM CRUNCHES",
+            "RUSSIAN TWISTS",
+            "HEEL TOUCHES",
+            "PLANK",
+            "SLOW CLIMBERS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "KNEE CRUNCHES",
+            "LEG RAISES",
+            "FLUTTER KICKS",
+            "CROSS CRUNCHES",
+            "CYCLING CRUNCHES",
+            "HEEL TOUCHES",
+            "ELBOW PLANK",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 50,
+          "exlist": [
+            "KNEE CRUNCHES",
+            "LEG RAISES",
+            "FLUTTER KICKS",
+            "CROSS CRUNCHES",
+            "CYCLING CRUNCHES",
+            "HEEL TOUCHES",
+            "ELBOW PLANK",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 50,
+          "exlist": [
+            "LONG ARM CRUNCHES",
+            "RUSSIAN TWISTS",
+            "HEEL TOUCHES",
+            "PLANK",
+            "SLOW CLIMBERS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 50,
+          "exlist": [
+            "CRUNCH",
+            "BICYCLE CRUNCH",
+            "PLANK",
+            "SIDE PLANK",
+            "RUSSIAN TWIST",
+            "STARFISH CRUNCH",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 50,
+          "exlist": [
+            "SIT-UP",
+            "LEG RAISE",
+            "KNEE PULL-IN",
+            "TOE TOUCHER",
+            "CRUNCH",
+            "REVERSE CRUNCH",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 60,
+          "exlist": [
+            "SIT-UP",
+            "LEG RAISE",
+            "KNEE PULL-IN",
+            "TOE TOUCHER",
+            "CRUNCH",
+            "REVERSE CRUNCH",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 60,
+          "exlist": [
+            "CRUNCH",
+            "BICYCLE CRUNCH",
+            "PLANK",
+            "SIDE PLANK",
+            "RUSSIAN TWIST",
+            "STARFISH CRUNCH",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 60,
+          "exlist": [
+            "LONG ARM CRUNCHES",
+            "RUSSIAN TWISTS",
+            "HEEL TOUCHES",
+            "PLANK",
+            "SLOW CLIMBERS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 60,
+          "exlist": [
+            "KNEE CRUNCHES",
+            "LEG RAISES",
+            "FLUTTER KICKS",
+            "CROSS CRUNCHES",
+            "CYCLING CRUNCHES",
+            "HEEL TOUCHES",
+            "ELBOW PLANK",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 65,
+          "exlist": [
+            "KNEE CRUNCHES",
+            "LEG RAISES",
+            "FLUTTER KICKS",
+            "CROSS CRUNCHES",
+            "CYCLING CRUNCHES",
+            "HEEL TOUCHES",
+            "ELBOW PLANK",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 65,
+          "exlist": [
+            "LONG ARM CRUNCHES",
+            "RUSSIAN TWISTS",
+            "HEEL TOUCHES",
+            "PLANK",
+            "SLOW CLIMBERS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 65,
+          "exlist": [
+            "CRUNCH",
+            "BICYCLE CRUNCH",
+            "PLANK",
+            "SIDE PLANK",
+            "RUSSIAN TWIST",
+            "STARFISH CRUNCH",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 65,
+          "exlist": [
+            "SIT-UP",
+            "LEG RAISE",
+            "KNEE PULL-IN",
+            "TOE TOUCHER",
+            "CRUNCH",
+            "REVERSE CRUNCH",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 70,
+          "exlist": [
+            "KNEE CRUNCHES",
+            "LEG RAISES",
+            "FLUTTER KICKS",
+            "CROSS CRUNCHES",
+            "CYCLING CRUNCHES",
+            "HEEL TOUCHES",
+            "ELBOW PLANK",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 70,
+          "exlist": [
+            "LONG ARM CRUNCHES",
+            "RUSSIAN TWISTS",
+            "HEEL TOUCHES",
+            "PLANK",
+            "SLOW CLIMBERS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 70,
+          "exlist": [
+            "CRUNCH",
+            "BICYCLE CRUNCH",
+            "PLANK",
+            "SIDE PLANK",
+            "RUSSIAN TWIST",
+            "STARFISH CRUNCH",
+            "REPEAT X2"
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Butt",
+      "Beginner": [
+        {
+          "time": 20,
+          "exlist": [
+            "BASIC SQUAT",
+            "REVERSE LUNGE ",
+            "CURTSY LUNGES ",
+            "BRIDGE",
+            "REVERSE LEG LIFTS",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 20,
+          "exlist": [
+            "JUMPING SQUATS",
+            "ALTERNATE JUMP SQUATS",
+            "LUNGES",
+            "CROSSOVER LUNGES",
+            "GLUTE BRIDGE",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 20,
+          "exlist": [
+            "GLUTE BRIDGE",
+            "HIP EXTENSION",
+            "HYDRANTS WITH LEG EXTENSION",
+            "SINGLE LEG GLUTE BRIDGES",
+            "RAINBOWS",
+            "REPEAT X2"
+
+
+          ]
+        },
+        {
+          "time": 20,
+          "exlist": [
+            "SQUAT",
+            "SIDE LYING LEG LIFT",
+            "BRIDGE",
+            "DONKEY KICKS",
+            "GOBLET SQUAT",
+            "REPEAT X2"
+
+
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 20,
+          "exlist": [
+            "SQUAT",
+            "DONKEY KICK",
+            "FIRE HYDRANTS",
+            "REVERSE LEG LIFTS",
+            "BRIDGES",
+            "REPEAT X2"
+
+
+          ]
+        },
+        {
+          "time": 25,
+          "exlist": [
+            "BASIC SQUAT",
+            "REVERSE LUNGE ",
+            "CURTSY LUNGES ",
+            "BRIDGE",
+            "REVERSE LEG LIFTS",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 25,
+          "exlist": [
+            "JUMPING SQUATS",
+            "ALTERNATE JUMP SQUATS",
+            "LUNGES",
+            "CROSSOVER LUNGES",
+            "GLUTE BRIDGE",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 25,
+          "exlist": [
+            "GLUTE BRIDGE",
+            "HIP EXTENSION",
+            "HYDRANTS WITH LEG EXTENSION",
+            "SINGLE LEG GLUTE BRIDGES",
+            "RAINBOWS",
+            "REPEAT X2"
+
+
+          ]
+        },
+        {
+          "time": 25,
+          "exlist": [
+            "SQUAT",
+            "SIDE LYING LEG LIFT",
+            "BRIDGE",
+            "DONKEY KICKS",
+            "GOBLET SQUAT",
+            "REPEAT X2"
+
+
+          ]
+        },
+        {
+          "time": 25,
+          "exlist": [
+            "SQUAT",
+            "DONKEY KICK",
+            "FIRE HYDRANTS",
+            "REVERSE LEG LIFTS",
+            "BRIDGES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "SQUAT",
+            "DONKEY KICK",
+            "FIRE HYDRANTS",
+            "REVERSE LEG LIFTS",
+            "BRIDGES",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "SQUAT",
+            "SIDE LYING LEG LIFT",
+            "BRIDGE",
+            "DONKEY KICKS",
+            "GOBLET SQUAT",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "GLUTE BRIDGE",
+            "HIP EXTENSION",
+            "HYDRANTS WITH LEG EXTENSION",
+            "SINGLE LEG GLUTE BRIDGES",
+            "RAINBOWS",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "JUMPING SQUATS",
+            "ALTERNATE JUMP SQUATS",
+            "LUNGES",
+            "CROSSOVER LUNGES",
+            "GLUTE BRIDGE",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "BASIC SQUAT",
+            "REVERSE LUNGE ",
+            "CURTSY LUNGES ",
+            "BRIDGE",
+            "REVERSE LEG LIFTS",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 30,
+          "exlist": [
+            "SQUAT",
+            "DONKEY KICK",
+            "FIRE HYDRANTS",
+            "REVERSE LEG LIFTS",
+            "BRIDGES",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 35,
+          "exlist": [
+            "SQUAT",
+            "DONKEY KICK",
+            "FIRE HYDRANTS",
+            "REVERSE LEG LIFTS",
+            "BRIDGES",
+            "REPEAT X2"
+
+
+          ]
+        },
+        {
+          "time": 35,
+          "exlist": [
+            "BASIC SQUAT",
+            "REVERSE LUNGE ",
+            "CURTSY LUNGES ",
+            "BRIDGE",
+            "REVERSE LEG LIFTS",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 35,
+          "exlist": [
+            "JUMPING SQUATS",
+            "ALTERNATE JUMP SQUATS",
+            "LUNGES",
+            "CROSSOVER LUNGES",
+            "GLUTE BRIDGE",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 35,
+          "exlist": [
+            "GLUTE BRIDGE",
+            "HIP EXTENSION",
+            "HYDRANTS WITH LEG EXTENSION",
+            "SINGLE LEG GLUTE BRIDGES",
+            "RAINBOWS",
+            "REPEAT X2"
+
+
+          ]
+        },
+        {
+          "time": 35,
+          "exlist": [
+            "SQUAT",
+            "SIDE LYING LEG LIFT",
+            "BRIDGE",
+            "DONKEY KICKS",
+            "GOBLET SQUAT",
+            "REPEAT X2"
+
+
+          ]
+        },
+        {
+          "time": 35,
+          "exlist": [
+            "SQUAT",
+            "DONKEY KICK",
+            "FIRE HYDRANTS",
+            "REVERSE LEG LIFTS",
+            "BRIDGES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "SQUAT",
+            "DONKEY KICK",
+            "FIRE HYDRANTS",
+            "REVERSE LEG LIFTS",
+            "BRIDGES",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "SQUAT",
+            "SIDE LYING LEG LIFT",
+            "BRIDGE",
+            "DONKEY KICKS",
+            "GOBLET SQUAT",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "GLUTE BRIDGE",
+            "HIP EXTENSION",
+            "HYDRANTS WITH LEG EXTENSION",
+            "SINGLE LEG GLUTE BRIDGES",
+            "RAINBOWS",
+            "REPEAT X2"
+
+          ]
+        },
+        {
+          "time": 40,
+          "exlist": [
+            "JUMPING SQUATS",
+            "ALTERNATE JUMP SQUATS",
+            "LUNGES",
+            "CROSSOVER LUNGES",
+            "GLUTE BRIDGE",
+            "REPEAT X2"
+
+          ]
+        }
+      ],
+      "Intermediate": [
+        {
+          "time": 30,
+          "lbsTotal": 10,
+          "exlist": [
+            "3 SETS 0F 10",
+            "SQUATS",
+            "DEADLIFTS",
+            "WALL SIT",
+            "DEADLIFTS",
+            "SUMO SQUATS",
+            "DEADLIFTS, TOES POINTED OUTWARDS"
+          ]
+        },
+        {
+          "time": 30,
+          "lbsTotal": 10,
+          "exlist": [
+            "3 SETS 0F 10",
+            "SUMO SQUAT",
+            "BULGARIAN SPLIT LUNGE",
+            "ROMANIAN DEADLIFT",
+            "SQUAT WITH SIDE KICKS",
+            "SUMO SQUAT PULSES"
+          ]
+        },
+        {
+          "time": 30,
+          "lbsTotal": 10,
+          "exlist": [
+            "3 SETS 0F 10",
+            "WEIGHTED DONKEY KICK",
+            "WEIGHTED BRIDGE",
+            "WEIGHTED SQUAT",
+            "CURTSY KICK",
+            "WEIGHTED LATERAL LEG LIFTS",
+            "DUMBBELL DEADLIFT"
+          ]
+        },
+        {
+          "time": 30,
+          "lbsTotal": 10,
+          "exlist": [
+            "3 SETS 0F 10",
+            "HIP THRUST",
+            "BULGARIAN SPLIT LUNGE",
+            "WEIGHTED STEP UPS",
+            "SINGLE LEG HIP THRUST",
+            "WALKING DUMBBELL LUNGE"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 30,
+          "lbsTotal": 10,
+          "exlist": [
+            "3 SETS 0F 10",
+            "FRONT SQUATS",
+            "ROMANIAN DEADLIFT",
+            "LUNGES",
+            "HIP THRUST"
+
+
+          ]
+        },
+        {
+          "time": 35,
+          "lbsTotal": 10,
+          "exlist": [
+            "3 SETS 0F 10",
+            "FRONT SQUATS",
+            "ROMANIAN DEADLIFT",
+            "LUNGES",
+            "HIP THRUST"
+
+          ]
+        },
+        {
+          "time": 35,
+          "lbsTotal": 10,
+          "exlist": [
+            "3 SETS 0F 10",
+            "HIP THRUST",
+            "BULGARIAN SPLIT LUNGE",
+            "WEIGHTED STEP UPS",
+            "SINGLE LEG HIP THRUST",
+            "WALKING DUMBBELL LUNGE"
+
+          ]
+        },
+        {
+          "time": 35,
+          "lbsTotal": 10,
+          "exlist": [
+            "3 SETS 0F 10",
+            "WEIGHTED DONKEY KICK",
+            "WEIGHTED BRIDGE",
+            "WEIGHTED SQUAT",
+            "CURTSY KICK",
+            "WEIGHTED LATERAL LEG LIFTS",
+            "DUMBBELL DEADLIFT"
+
+          ]
+        },
+        {
+          "time": 35,
+          "lbsTotal": 10,
+          "exlist": [
+            "3 SETS 0F 10",
+            "SUMO SQUAT",
+            "BULGARIAN SPLIT LUNGE",
+            "ROMANIAN DEADLIFT",
+            "SQUAT WITH SIDE KICKS",
+            "SUMO SQUAT PULSES"
+
+
+          ]
+        },
+        {
+          "time": 35,
+          "lbsTotal": 10,
+          "exlist": [
+            "3 SETS 0F 10",
+            "SQUATS",
+            "DEADLIFTS",
+            "WALL SIT",
+            "DEADLIFTS",
+            "SUMO SQUATS",
+            "DEADLIFTS, TOES POINTED OUTWARDS"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 35,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS 0F 10",
+            "SQUATS",
+            "DEADLIFTS",
+            "WALL SIT",
+            "DEADLIFTS",
+            "SUMO SQUATS",
+            "DEADLIFTS, TOES POINTED OUTWARDS"
+
+          ]
+        },
+        {
+          "time": 35,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS 0F 10",
+            "SUMO SQUAT",
+            "BULGARIAN SPLIT LUNGE",
+            "ROMANIAN DEADLIFT",
+            "SQUAT WITH SIDE KICKS",
+            "SUMO SQUAT PULSES"
+
+          ]
+        },
+        {
+          "time": 35,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS 0F 10",
+            "WEIGHTED DONKEY KICK",
+            "WEIGHTED BRIDGE",
+            "WEIGHTED SQUAT",
+            "CURTSY KICK",
+            "WEIGHTED LATERAL LEG LIFTS",
+            "DUMBBELL DEADLIFT"
+
+          ]
+        },
+        {
+          "time": 35,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS 0F 10",
+            "HIP THRUST",
+            "BULGARIAN SPLIT LUNGE",
+            "WEIGHTED STEP UPS",
+            "SINGLE LEG HIP THRUST",
+            "WALKING DUMBBELL LUNGE"
+
+          ]
+        },
+        {
+          "time": 35,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS 0F 10",
+            "FRONT SQUATS",
+            "ROMANIAN DEADLIFT",
+            "LUNGES",
+            "HIP THRUST"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 40,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS 0F 10",
+            "SQUATS",
+            "DEADLIFTS",
+            "WALL SIT",
+            "DEADLIFTS",
+            "SUMO SQUATS",
+            "DEADLIFTS, TOES POINTED OUTWARDS"
+
+          ]
+        },
+        {
+          "time": 40,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS 0F 10",
+            "SUMO SQUAT",
+            "BULGARIAN SPLIT LUNGE",
+            "ROMANIAN DEADLIFT",
+            "SQUAT WITH SIDE KICKS",
+            "SUMO SQUAT PULSES"
+
+          ]
+        },
+        {
+          "time": 40,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS 0F 10",
+            "WEIGHTED DONKEY KICK",
+            "WEIGHTED BRIDGE",
+            "WEIGHTED SQUAT",
+            "CURTSY KICK",
+            "WEIGHTED LATERAL LEG LIFTS",
+            "DUMBBELL DEADLIFT"
+
+          ]
+        },
+        {
+          "time": 40,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS 0F 10",
+            "HIP THRUST",
+            "BULGARIAN SPLIT LUNGE",
+            "WEIGHTED STEP UPS",
+            "SINGLE LEG HIP THRUST",
+            "WALKING DUMBBELL LUNGE"
+
+          ]
+        },
+        {
+          "time": 40,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS 0F 10",
+            "FRONT SQUATS",
+            "ROMANIAN DEADLIFT",
+            "LUNGES",
+            "HIP THRUST"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 45,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS 0F 10",
+            "FRONT SQUATS",
+            "ROMANIAN DEADLIFT",
+            "LUNGES",
+            "HIP THRUST"
+
+          ]
+        },
+        {
+          "time": 45,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS 0F 10",
+            "HIP THRUST",
+            "BULGARIAN SPLIT LUNGE",
+            "WEIGHTED STEP UPS",
+            "SINGLE LEG HIP THRUST",
+            "WALKING DUMBBELL LUNGE"
+
+          ]
+        },
+        {
+          "time": 45,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS 0F 10",
+            "WEIGHTED DONKEY KICK",
+            "WEIGHTED BRIDGE",
+            "WEIGHTED SQUAT",
+            "CURTSY KICK",
+            "WEIGHTED LATERAL LEG LIFTS",
+            "DUMBBELL DEADLIFT"
+
+          ]
+        },
+        {
+          "time": 45,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS 0F 10",
+            "SUMO SQUAT",
+            "BULGARIAN SPLIT LUNGE",
+            "ROMANIAN DEADLIFT",
+            "SQUAT WITH SIDE KICKS",
+            "SUMO SQUAT PULSES"
+          ]
+        }
+      ],
+      "Advanced": [
+        {
+          "time": 30,
+          "lbsTotal": 30,
+          "exlist": [
+            "3 SETS 0F 10",
+            "SUMO SQUAT",
+            "ELEVATED STATIC LUNGE",
+            "DEADLIFT",
+            "SUMO DEADLIFT",
+            "BULGARIAN SPLIT SQUAT",
+            "HIP THRUST"
+          ]
+        },
+        {
+          "time": 30,
+          "lbsTotal": 30,
+          "exlist": [
+            "3 SETS 0F 10",
+            "ROMANIAN DEADLIFT",
+            "STATIONARY LUNGES",
+            "GLUTE KICKBACKS",
+            "KETTLEBELL SWING",
+            "CABLE KICKBACK",
+            "GOBLET REVERSE LUNGE"
+
+
+          ]
+        },
+        {
+          "time": 30,
+          "lbsTotal": 30,
+          "exlist": [
+            "3 SETS 0F 10",
+            "STRAIGHT LEG DEADLIFT",
+            "HIP THRUST",
+            "ELEVATED LUNGE",
+            "ROMANIAN DEADLIFT",
+            "SUMO DEADLIFT",
+            "SUMO SQUAT"
+
+
+          ]
+        },
+        {
+          "time": 30,
+          "lbsTotal": 30,
+          "exlist": [
+            "3 SETS 0F 10",
+            "WALKING LUNGES",
+            "STEP UPS",
+            "LEG KICKBACKS",
+            "OUTSIDE LEG RAISES",
+            "HIP THRUST",
+            "STATIC LUNGE",
+            "DEADLIFT"
+
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 30,
+          "lbsTotal": 40,
+          "exlist": [
+            "3 SETS 0F 10",
+            "SUMO SQUAT",
+            "ELEVATED STATIC LUNGE",
+            "DEADLIFT",
+            "SUMO DEADLIFT",
+            "BULGARIAN SPLIT SQUAT",
+            "HIP THRUST"
+          ]
+        },
+        {
+          "time": 30,
+          "lbsTotal": 40,
+          "exlist": [
+            "3 SETS 0F 10",
+            "ROMANIAN DEADLIFT",
+            "STATIONARY LUNGES",
+            "GLUTE KICKBACKS",
+            "KETTLEBELL SWING",
+            "CABLE KICKBACK",
+            "GOBLET REVERSE LUNGE"
+
+
+          ]
+        },
+        {
+          "time": 30,
+          "lbsTotal": 40,
+          "exlist": [
+            "3 SETS 0F 10",
+            "STRAIGHT LEG DEADLIFT",
+            "HIP THRUST",
+            "ELEVATED LUNGE",
+            "ROMANIAN DEADLIFT",
+            "SUMO DEADLIFT",
+            "SUMO SQUAT"
+
+
+          ]
+        },
+        {
+          "time": 30,
+          "lbsTotal": 40,
+          "exlist": [
+            "3 SETS 0F 10",
+            "WALKING LUNGES",
+            "STEP UPS",
+            "LEG KICKBACKS",
+            "OUTSIDE LEG RAISES",
+            "HIP THRUST",
+            "STATIC LUNGE",
+            "DEADLIFT"
+
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 30,
+          "lbsTotal": 45,
+          "exlist": [
+            "3 SETS 0F 10",
+            "SUMO SQUAT",
+            "ELEVATED STATIC LUNGE",
+            "DEADLIFT",
+            "SUMO DEADLIFT",
+            "BULGARIAN SPLIT SQUAT",
+            "HIP THRUST"
+          ]
+        },
+        {
+          "time": 30,
+          "lbsTotal": 45,
+          "exlist": [
+            "3 SETS 0F 10",
+            "ROMANIAN DEADLIFT",
+            "STATIONARY LUNGES",
+            "GLUTE KICKBACKS",
+            "KETTLEBELL SWING",
+            "CABLE KICKBACK",
+            "GOBLET REVERSE LUNGE"
+
+
+          ]
+        },
+        {
+          "time": 30,
+          "lbsTotal": 45,
+          "exlist": [
+            "3 SETS 0F 10",
+            "STRAIGHT LEG DEADLIFT",
+            "HIP THRUST",
+            "ELEVATED LUNGE",
+            "ROMANIAN DEADLIFT",
+            "SUMO DEADLIFT",
+            "SUMO SQUAT"
+
+
+          ]
+        },
+        {
+          "time": 30,
+          "lbsTotal": 45,
+          "exlist": [
+            "3 SETS 0F 10",
+            "WALKING LUNGES",
+            "STEP UPS",
+            "LEG KICKBACKS",
+            "OUTSIDE LEG RAISES",
+            "HIP THRUST",
+            "STATIC LUNGE",
+            "DEADLIFT"
+
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 35,
+          "lbsTotal": 45,
+          "exlist": [
+            "3 SETS 0F 10",
+            "WALKING LUNGES",
+            "STEP UPS",
+            "LEG KICKBACKS",
+            "OUTSIDE LEG RAISES",
+            "HIP THRUST",
+            "STATIC LUNGE",
+            "DEADLIFT"
+
+          ]
+        },
+        {
+          "time": 35,
+          "lbsTotal": 45,
+          "exlist": [
+            "3 SETS 0F 10",
+            "STRAIGHT LEG DEADLIFT",
+            "HIP THRUST",
+            "ELEVATED LUNGE",
+            "ROMANIAN DEADLIFT",
+            "SUMO DEADLIFT",
+            "SUMO SQUAT"
+
+          ]
+        },
+        {
+          "time": 35,
+          "lbsTotal": 25,
+          "exlist": [
+            "3 SETS 0F 10",
+            "ROMANIAN DEADLIFT",
+            "STATIONARY LUNGES",
+            "GLUTE KICKBACKS",
+            "KETTLEBELL SWING",
+            "CABLE KICKBACK",
+            "GOBLET REVERSE LUNGE"
+
+          ]
+        },
+        {
+          "time": 35,
+          "lbsTotal": 45,
+          "exlist": [
+            "3 SETS 0F 10",
+            "SUMO SQUAT",
+            "ELEVATED STATIC LUNGE",
+            "DEADLIFT",
+            "SUMO DEADLIFT",
+            "BULGARIAN SPLIT SQUAT",
+            "HIP THRUST"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 35,
+          "lbsTotal": 45,
+          "exlist": [
+            "3 SETS 0F 10",
+            "WALKING LUNGES",
+            "STEP UPS",
+            "LEG KICKBACKS",
+            "OUTSIDE LEG RAISES",
+            "HIP THRUST",
+            "STATIC LUNGE",
+            "DEADLIFT"
+
+          ]
+        },
+        {
+          "time": 35,
+          "lbsTotal": 45,
+          "exlist": [
+            "3 SETS 0F 10",
+            "STRAIGHT LEG DEADLIFT",
+            "HIP THRUST",
+            "ELEVATED LUNGE",
+            "ROMANIAN DEADLIFT",
+            "SUMO DEADLIFT",
+            "SUMO SQUAT"
+
+          ]
+        },
+        {
+          "time": 35,
+          "lbsTotal": 25,
+          "exlist": [
+            "3 SETS 0F 10",
+            "ROMANIAN DEADLIFT",
+            "STATIONARY LUNGES",
+            "GLUTE KICKBACKS",
+            "KETTLEBELL SWING",
+            "CABLE KICKBACK",
+            "GOBLET REVERSE LUNGE"
+
+          ]
+        },
+        {
+          "time": 35,
+          "lbsTotal": 45,
+          "exlist": [
+            "3 SETS 0F 10",
+            "SUMO SQUAT",
+            "ELEVATED STATIC LUNGE",
+            "DEADLIFT",
+            "SUMO DEADLIFT",
+            "BULGARIAN SPLIT SQUAT",
+            "HIP THRUST"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Upperbody",
+      "Beginner": [
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "DUMBBELL LATERAL RAISE",
+            "DUMBBELL OVERHEAD SHOULDER PRESS",
+            "FORWARD FRONT DUMBBELL RAISE",
+            "REVERSE CURL",
+            "STANDING DUMBBELL CURL",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "SEATED DUMBBELL CURL",
+            "HAMMER CURLS",
+            "DECLINE PUSHUP",
+            "DUMBBELL FLAT BENCH PRESS",
+            "SHOULDER PRESS",
+            "LATERAL RAISE",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "STANDING ROWS",
+            "SINGLE ARM LATERAL RAISE",
+            "LATERAL RAISE",
+            "SHOULDER PRESS",
+            "CHEST PRESS",
+            "PULLOVER",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "SHOULDER PRESS",
+            "BENT OVER ROW",
+            "DUMBBELL SHRUGS",
+            "ONE ARM DUMBBELL ROWS",
+            "FRONT DUMBBELL RAISES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "DUMBBELL LATERAL RAISE",
+            "DUMBBELL OVERHEAD SHOULDER PRESS",
+            "FORWARD FRONT DUMBBELL RAISE",
+            "REVERSE CURL",
+            "STANDING DUMBBELL CURL",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "SEATED DUMBBELL CURL",
+            "HAMMER CURLS",
+            "DECLINE PUSHUP",
+            "DUMBBELL FLAT BENCH PRESS",
+            "SHOULDER PRESS",
+            "LATERAL RAISE",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "STANDING ROWS",
+            "SINGLE ARM LATERAL RAISE",
+            "LATERAL RAISE",
+            "SHOULDER PRESS",
+            "CHEST PRESS",
+            "PULLOVER",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "SHOULDER PRESS",
+            "BENT OVER ROW",
+            "DUMBBELL SHRUGS",
+            "ONE ARM DUMBBELL ROWS",
+            "FRONT DUMBBELL RAISES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "DUMBBELL LATERAL RAISE",
+            "DUMBBELL OVERHEAD SHOULDER PRESS",
+            "FORWARD FRONT DUMBBELL RAISE",
+            "REVERSE CURL",
+            "STANDING DUMBBELL CURL",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "SEATED DUMBBELL CURL",
+            "HAMMER CURLS",
+            "DECLINE PUSHUP",
+            "DUMBBELL FLAT BENCH PRESS",
+            "SHOULDER PRESS",
+            "LATERAL RAISE",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "STANDING ROWS",
+            "SINGLE ARM LATERAL RAISE",
+            "LATERAL RAISE",
+            "SHOULDER PRESS",
+            "CHEST PRESS",
+            "PULLOVER",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "SHOULDER PRESS",
+            "BENT OVER ROW",
+            "DUMBBELL SHRUGS",
+            "ONE ARM DUMBBELL ROWS",
+            "FRONT DUMBBELL RAISES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "SHOULDER PRESS",
+            "BENT OVER ROW",
+            "DUMBBELL SHRUGS",
+            "ONE ARM DUMBBELL ROWS",
+            "FRONT DUMBBELL RAISES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "STANDING ROWS",
+            "SINGLE ARM LATERAL RAISE",
+            "LATERAL RAISE",
+            "SHOULDER PRESS",
+            "CHEST PRESS",
+            "PULLOVER",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "SEATED DUMBBELL CURL",
+            "HAMMER CURLS",
+            "DECLINE PUSHUP",
+            "DUMBBELL FLAT BENCH PRESS",
+            "SHOULDER PRESS",
+            "LATERAL RAISE",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "DUMBBELL LATERAL RAISE",
+            "DUMBBELL OVERHEAD SHOULDER PRESS",
+            "FORWARD FRONT DUMBBELL RAISE",
+            "REVERSE CURL",
+            "STANDING DUMBBELL CURL",
+            "REPEAT X2"
+
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 12,
+          "lbsTotal": 10,
+          "exlist": [
+            "DUMBBELL LATERAL RAISE",
+            "DUMBBELL OVERHEAD SHOULDER PRESS",
+            "FORWARD FRONT DUMBBELL RAISE",
+            "REVERSE CURL",
+            "STANDING DUMBBELL CURL",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 12,
+          "lbsTotal": 10,
+          "exlist": [
+            "SEATED DUMBBELL CURL",
+            "HAMMER CURLS",
+            "DECLINE PUSHUP",
+            "DUMBBELL FLAT BENCH PRESS",
+            "SHOULDER PRESS",
+            "LATERAL RAISE",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 12,
+          "lbsTotal": 10,
+          "exlist": [
+            "STANDING ROWS",
+            "SINGLE ARM LATERAL RAISE",
+            "LATERAL RAISE",
+            "SHOULDER PRESS",
+            "CHEST PRESS",
+            "PULLOVER",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 12,
+          "lbsTotal": 10,
+          "exlist": [
+            "SHOULDER PRESS",
+            "BENT OVER ROW",
+            "DUMBBELL SHRUGS",
+            "ONE ARM DUMBBELL ROWS",
+            "FRONT DUMBBELL RAISES",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "SHOULDER PRESS",
+            "BENT OVER ROW",
+            "DUMBBELL SHRUGS",
+            "ONE ARM DUMBBELL ROWS",
+            "FRONT DUMBBELL RAISES",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "STANDING ROWS",
+            "SINGLE ARM LATERAL RAISE",
+            "LATERAL RAISE",
+            "SHOULDER PRESS",
+            "CHEST PRESS",
+            "PULLOVER",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 10,
+          "exlist": [
+            "SEATED DUMBBELL CURL",
+            "HAMMER CURLS",
+            "DECLINE PUSHUP",
+            "DUMBBELL FLAT BENCH PRESS",
+            "SHOULDER PRESS",
+            "LATERAL RAISE",
+            "REPEAT X3"
+          ]
+        }
+      ],
+      "Intermediate": [
+        {
+          "time": 12,
+          "lbsTotal": 15,
+          "exlist": [
+            "OVERHEAD PRESS",
+            "TRICEP KICKBACKS",
+            "CHEST PRESS",
+            "SIDE PLANK WITH LATERAL RAISE",
+            "PUSH UP",
+            "TRICEP DIPS",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 12,
+          "lbsTotal": 15,
+          "exlist": [
+            "BICEP CURLS",
+            "LATERAL RAISES",
+            "CHEST ROWS",
+            "SHOULDER PRESS",
+            "SHRUGS",
+            "BENT OVER ROWS",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 12,
+          "lbsTotal": 15,
+          "exlist": [
+            "SHOULDER PRESS",
+            "CHEST PRESS",
+            "LATERAL RAISES",
+            "OVERHEAD TRICEP EXTENSION",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 12,
+          "lbsTotal": 15,
+          "exlist": [
+            "ALTERNATE BICEP CURLS",
+            "DEADLIFTS",
+            "BENT OVER ROWS",
+            "UPRIGHT ROWS",
+            "SHRUGS",
+            "BENT OVER FLYS",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 12,
+          "lbsTotal": 15,
+          "exlist": [
+            "ARNOLD PRESS",
+            "PUSH UPS",
+            "LATERAL RAISES",
+            "TRICEP EXTENSIONS",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 15,
+          "exlist": [
+            "OVERHEAD PRESS",
+            "TRICEP KICKBACKS",
+            "CHEST PRESS",
+            "SIDE PLANK WITH LATERAL RAISE",
+            "PUSH UP",
+            "TRICEP DIPS",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 15,
+          "exlist": [
+            "BICEP CURLS",
+            "LATERAL RAISES",
+            "CHEST ROWS",
+            "SHOULDER PRESS",
+            "SHRUGS",
+            "BENT OVER ROWS",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 15,
+          "exlist": [
+            "SHOULDER PRESS",
+            "CHEST PRESS",
+            "LATERAL RAISES",
+            "OVERHEAD TRICEP EXTENSION",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 15,
+          "exlist": [
+            "ALTERNATE BICEP CURLS",
+            "DEADLIFTS",
+            "BENT OVER ROWS",
+            "UPRIGHT ROWS",
+            "SHRUGS",
+            "BENT OVER FLYS",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 15,
+          "lbsTotal": 15,
+          "exlist": [
+            "ARNOLD PRESS",
+            "PUSH UPS",
+            "LATERAL RAISES",
+            "TRICEP EXTENSIONS",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 12,
+          "lbsTotal": 15,
+          "exlist": [
+            "OVERHEAD PRESS",
+            "TRICEP KICKBACKS",
+            "CHEST PRESS",
+            "SIDE PLANK WITH LATERAL RAISE",
+            "PUSH UP",
+            "TRICEP DIPS",
+            "REPEAT X4"
+          ]
+        },
+        {
+          "time": 12,
+          "lbsTotal": 15,
+          "exlist": [
+            "BICEP CURLS",
+            "LATERAL RAISES",
+            "CHEST ROWS",
+            "SHOULDER PRESS",
+            "SHRUGS",
+            "BENT OVER ROWS",
+            "REPEAT X4"
+          ]
+        },
+        {
+          "time": 12,
+          "lbsTotal": 15,
+          "exlist": [
+            "SHOULDER PRESS",
+            "CHEST PRESS",
+            "LATERAL RAISES",
+            "OVERHEAD TRICEP EXTENSION",
+            "REPEAT X4"
+          ]
+        },
+        {
+          "time": 12,
+          "lbsTotal": 15,
+          "exlist": [
+            "ALTERNATE BICEP CURLS",
+            "DEADLIFTS",
+            "BENT OVER ROWS",
+            "UPRIGHT ROWS",
+            "SHRUGS",
+            "BENT OVER FLYS",
+            "REPEAT X4"
+          ]
+        },
+        {
+          "time": 12,
+          "lbsTotal": 15,
+          "exlist": [
+            "ARNOLD PRESS",
+            "PUSH UPS",
+            "LATERAL RAISES",
+            "TRICEP EXTENSIONS",
+            "REPEAT X4"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "OVERHEAD PRESS",
+            "TRICEP KICKBACKS",
+            "CHEST PRESS",
+            "SIDE PLANK WITH LATERAL RAISE",
+            "PUSH UP",
+            "TRICEP DIPS",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "BICEP CURLS",
+            "LATERAL RAISES",
+            "CHEST ROWS",
+            "SHOULDER PRESS",
+            "SHRUGS",
+            "BENT OVER ROWS",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "SHOULDER PRESS",
+            "CHEST PRESS",
+            "LATERAL RAISES",
+            "OVERHEAD TRICEP EXTENSION",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "ALTERNATE BICEP CURLS",
+            "DEADLIFTS",
+            "BENT OVER ROWS",
+            "UPRIGHT ROWS",
+            "SHRUGS",
+            "BENT OVER FLYS",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "ARNOLD PRESS",
+            "PUSH UPS",
+            "LATERAL RAISES",
+            "TRICEP EXTENSIONS",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "ARNOLD PRESS",
+            "PUSH UPS",
+            "LATERAL RAISES",
+            "TRICEP EXTENSIONS",
+            "REPEAT X3"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "ALTERNATE BICEP CURLS",
+            "DEADLIFTS",
+            "BENT OVER ROWS",
+            "UPRIGHT ROWS",
+            "SHRUGS",
+            "BENT OVER FLYS",
+            "REPEAT X3"
+          ]
+        }
+      ],
+      "Advanced": [
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "DUMBBELL REAR LATERAL RAISE",
+            "DUMBBELL LATERAL RAISE",
+            "DUMBBELL FRONT RAISE",
+            "DUMBBELL SHOULDER SHRUGS",
+            "OVERHEAD DUMBBELL PRESS"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "WIDE GRIP PULL UPS",
+            "BENT OVER DUMBBELL REAR LATERALS",
+            "BARBELL ROWS",
+            "SINGLE ARM DUMBBELL ROWS",
+            "SEATED CABLE ROWS"
+
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "DUMBBELL CURLS",
+            "HAMMER CURLS",
+            "EZ BAR CURLS",
+            "CABLE HIGH CURLS"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "TRICEP ROPE PRESS DOWN",
+            "BODY WEIGHT BENCH DIPS",
+            "SKULL CRUSHERS",
+            "REVERSE GRIP TRICEP PULL DOWNS"
+
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "FLAT BENCH PRESS",
+            "INCLINE BENCH PRESS",
+            "FLAT DUMBBELL PRESS",
+            "INCLINE DUMBELL PRESS",
+            "CABLE FLYS"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "DUMBBELL REAR LATERAL RAISE",
+            "DUMBBELL LATERAL RAISE",
+            "DUMBBELL FRONT RAISE",
+            "DUMBBELL SHOULDER SHRUGS",
+            "OVERHEAD DUMBBELL PRESS"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "WIDE GRIP PULL UPS",
+            "BENT OVER DUMBBELL REAR LATERALS",
+            "BARBELL ROWS",
+            "SINGLE ARM DUMBBELL ROWS",
+            "SEATED CABLE ROWS"
+
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "DUMBBELL CURLS",
+            "HAMMER CURLS",
+            "EZ BAR CURLS",
+            "CABLE HIGH CURLS"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "TRICEP ROPE PRESS DOWN",
+            "BODY WEIGHT BENCH DIPS",
+            "SKULL CRUSHERS",
+            "REVERSE GRIP TRICEP PULL DOWNS"
+
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "FLAT BENCH PRESS",
+            "INCLINE BENCH PRESS",
+            "FLAT DUMBBELL PRESS",
+            "INCLINE DUMBELL PRESS",
+            "CABLE FLYS"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "DUMBBELL REAR LATERAL RAISE",
+            "DUMBBELL LATERAL RAISE",
+            "DUMBBELL FRONT RAISE",
+            "DUMBBELL SHOULDER SHRUGS",
+            "OVERHEAD DUMBBELL PRESS"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "WIDE GRIP PULL UPS",
+            "BENT OVER DUMBBELL REAR LATERALS",
+            "BARBELL ROWS",
+            "SINGLE ARM DUMBBELL ROWS",
+            "SEATED CABLE ROWS"
+
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "DUMBBELL CURLS",
+            "HAMMER CURLS",
+            "EZ BAR CURLS",
+            "CABLE HIGH CURLS"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "TRICEP ROPE PRESS DOWN",
+            "BODY WEIGHT BENCH DIPS",
+            "SKULL CRUSHERS",
+            "REVERSE GRIP TRICEP PULL DOWNS"
+
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "FLAT BENCH PRESS",
+            "INCLINE BENCH PRESS",
+            "FLAT DUMBBELL PRESS",
+            "INCLINE DUMBELL PRESS",
+            "CABLE FLYS"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "DUMBBELL REAR LATERAL RAISE",
+            "DUMBBELL LATERAL RAISE",
+            "DUMBBELL FRONT RAISE",
+            "DUMBBELL SHOULDER SHRUGS",
+            "OVERHEAD DUMBBELL PRESS"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "WIDE GRIP PULL UPS",
+            "BENT OVER DUMBBELL REAR LATERALS",
+            "BARBELL ROWS",
+            "SINGLE ARM DUMBBELL ROWS",
+            "SEATED CABLE ROWS"
+
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "DUMBBELL CURLS",
+            "HAMMER CURLS",
+            "EZ BAR CURLS",
+            "CABLE HIGH CURLS"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "TRICEP ROPE PRESS DOWN",
+            "BODY WEIGHT BENCH DIPS",
+            "SKULL CRUSHERS",
+            "REVERSE GRIP TRICEP PULL DOWNS"
+
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "FLAT BENCH PRESS",
+            "INCLINE BENCH PRESS",
+            "FLAT DUMBBELL PRESS",
+            "INCLINE DUMBELL PRESS",
+            "CABLE FLYS"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "FLAT BENCH PRESS",
+            "INCLINE BENCH PRESS",
+            "FLAT DUMBBELL PRESS",
+            "INCLINE DUMBELL PRESS",
+            "CABLE FLYS"
+
+          ]
+        },
+        {
+          "time": 10,
+          "lbsTotal": 20,
+          "exlist": [
+            "3 SETS OF 10",
+            "WIDE GRIP PULL UPS",
+            "BENT OVER DUMBBELL REAR LATERALS",
+            "BARBELL ROWS",
+            "SINGLE ARM DUMBBELL ROWS",
+            "SEATED CABLE ROWS"
+
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Sculpting",
+      "Beginner": [
+        {
+          "time": 90,
+          "lbsTotal": 0,
+          "exlist": [
+            "20 JUMPING JACKS",
+            "10 TRICEP DIPS",
+            "20 CRUNCHES",
+            "30 SECOND WALL SIT",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 90,
+          "lbsTotal": 0,
+          "exlist": [
+            "20 SQUATS",
+            "10 RUSSIAN TWISTS",
+            "10 PUSH UPS",
+            "10 BUTT KICKS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 90,
+          "lbsTotal": 0,
+          "exlist": [
+            "30 SECOND PLANK",
+            "10 BURPEES",
+            "20 LUNGES",
+            "10 HIGH KNEES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 120,
+          "lbsTotal": 0,
+          "exlist": [
+            "25 JUMPING JACKS",
+            "15 TRICEP DIPS",
+            "25 CRUNCHES",
+            "40 SECOND WALL SIT",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 120,
+          "lbsTotal": 0,
+          "exlist": [
+            "30 SQUATS",
+            "20 RUSSIAN TWISTS",
+            "12 PUSH UPS",
+            "20 BUTT KICKS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 120,
+          "lbsTotal": 0,
+          "exlist": [
+            "30 SECOND PLANK",
+            "20 BURPEES",
+            "10 LUNGES",
+            "20 HIGH KNEES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 150,
+          "lbsTotal": 0,
+          "exlist": [
+            "30 JUMPING JACKS",
+            "20 TRICEP DIPS",
+            "30 CRUNCHES",
+            "50 SECOND WALL SIT",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 150,
+          "lbsTotal": 0,
+          "exlist": [
+            "35 SQUATS",
+            "25 RUSSIAN TWISTS",
+            "15 PUSH UPS",
+            "30 BUTT KICKS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 150,
+          "lbsTotal": 0,
+          "exlist": [
+            "30 SECOND PLANK",
+            "30 BURPEES",
+            "30 LUNGES",
+            "30 HIGH KNEES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 150,
+          "lbsTotal": 0,
+          "exlist": [
+            "35 JUMPING JACKS",
+            "25 TRICEP DIPS",
+            "35 CRUNCHES",
+            "40 SECOND WALL SIT",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 150,
+          "lbsTotal": 0,
+          "exlist": [
+            "40 SQUATS",
+            "30 RUSSIAN TWISTS",
+            "15 PUSH UPS",
+            "40 BUTT KICKS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 150,
+          "lbsTotal": 0,
+          "exlist": [
+            "35 SECOND PLANK",
+            "35 BURPEES",
+            "35 LUNGES",
+            "40 HIGH KNEES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 180,
+          "lbsTotal": 0,
+          "exlist": [
+            "40 JUMPING JACKS",
+            "30 TRICEP DIPS",
+            "40 CRUNCHES",
+            "40 SECOND WALL SIT",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 180,
+          "lbsTotal": 0,
+          "exlist": [
+            "45 SQUATS",
+            "35 RUSSIAN TWISTS",
+            "20 PUSH UPS",
+            "50 BUTT KICKS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 180,
+          "lbsTotal": 0,
+          "exlist": [
+            "40 SECOND PLANK",
+            "35 BURPEES",
+            "35 LUNGES",
+            "50 HIGH KNEES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 180,
+          "lbsTotal": 0,
+          "exlist": [
+            "45 JUMPING JACKS",
+            "25 TRICEP DIPS",
+            "45 CRUNCHES",
+            "50 SECOND WALL SIT",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 180,
+          "lbsTotal": 0,
+          "exlist": [
+            "40 SQUATS",
+            "40 RUSSIAN TWISTS",
+            "20 PUSH UPS",
+            "60 BUTT KICKS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 180,
+          "lbsTotal": 0,
+          "exlist": [
+            "45 SECOND PLANK",
+            "40 BURPEES",
+            "45 LUNGES",
+            "60 HIGH KNEES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 180,
+          "lbsTotal": 0,
+          "exlist": [
+            "45 JUMPING JACKS",
+            "25 TRICEP DIPS",
+            "45 CRUNCHES",
+            "50 SECOND WALL SIT",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 180,
+          "lbsTotal": 0,
+          "exlist": [
+            "40 SQUATS",
+            "40 RUSSIAN TWISTS",
+            "20 PUSH UPS",
+            "60 BUTT KICKS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 180,
+          "lbsTotal": 0,
+          "exlist": [
+            "45 SECOND PLANK",
+            "40 BURPEES",
+            "45 LUNGES",
+            "60 HIGH KNEES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        }
+      ],
+      "Intermediate": [
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "45 JUMPING JACKS",
+            "15 SQUATS",
+            "5 JUMP SQUATS",
+            "30 RUSSIAN TWISTS",
+            "30 SECONDS PLANK",
+            "10 STANDING CALF RAISES",
+            "5 PUSH UPS",
+            "10 LUNGES (EACH LEG)",
+            "20 CRUNCHES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "45 JUMPING JACKS",
+            "20 CRUNCHES",
+            "20 TRICEP DIPS",
+            "15 SQUATS",
+            "20 LUNGES (EACH LEG)",
+            "30 RUSSIAN TWISTS",
+            "20 STANDING CALF RAISES",
+            "5 PUSH UPS",
+            "30 SECONDS PLANK",
+            "10 LUNGE SPLIT JUMPS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "80 JUMPING JACKS",
+            "20 VERTICAL LEG CRUNCHES (EACH LEG)",
+            "20 SIT UPS",
+            "15 TRICEP DIPS",
+            "20 SQUATS",
+            "15 LEG LIFTS (EACH LEG)",
+            "20 BICYCLES",
+            "30 SECONDS WALL SIT",
+            "30 RUSSIAN TWIST",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "90 JUMPING JACKS",
+            "20 TRICEP DIPS",
+            "10 SIT UPS",
+            "30 SECONDS PLANK",
+            "30 SQUATS",
+            "15 PUSH UPS",
+            "20 CRUNCHES",
+            "20 STANDING CALF RAISES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "100 JUMPING JACKS",
+            "25 VERTICAL LEG CRUNCHES",
+            "20 SQUATS",
+            "50 RUSSIAN TWISTS",
+            "15 SECOND SIDE PLANK (EACH SIDE)",
+            "10 LUNGE SPLIT JUMPS",
+            "5 JUMP SQUATS",
+            "40 HIGH KNEES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "100 JUMPING JACKS",
+            "25 VERTICAL LEG CRUNCHES",
+            "20 SQUATS",
+            "50 RUSSIAN TWISTS",
+            "15 SECOND SIDE PLANK (EACH SIDE)",
+            "10 LUNGE SPLIT JUMPS",
+            "5 JUMP SQUATS",
+            "40 HIGH KNEES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "90 JUMPING JACKS",
+            "20 TRICEP DIPS",
+            "10 SIT UPS",
+            "30 SECONDS PLANK",
+            "30 SQUATS",
+            "15 PUSH UPS",
+            "20 CRUNCHES",
+            "20 STANDING CALF RAISES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "80 JUMPING JACKS",
+            "20 VERTICAL LEG CRUNCHES (EACH LEG)",
+            "20 SIT UPS",
+            "15 TRICEP DIPS",
+            "20 SQUATS",
+            "15 LEG LIFTS (EACH LEG)",
+            "20 BICYCLES",
+            "30 SECONDS WALL SIT",
+            "30 RUSSIAN TWIST",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "45 JUMPING JACKS",
+            "20 CRUNCHES",
+            "20 TRICEP DIPS",
+            "15 SQUATS",
+            "20 LUNGES (EACH LEG)",
+            "30 RUSSIAN TWISTS",
+            "20 STANDING CALF RAISES",
+            "5 PUSH UPS",
+            "30 SECONDS PLANK",
+            "10 LUNGE SPLIT JUMPS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "45 JUMPING JACKS",
+            "15 SQUATS",
+            "5 JUMP SQUATS",
+            "30 RUSSIAN TWISTS",
+            "30 SECONDS PLANK",
+            "10 STANDING CALF RAISES",
+            "5 PUSH UPS",
+            "10 LUNGES (EACH LEG)",
+            "20 CRUNCHES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "90 JUMPING JACKS",
+            "20 TRICEP DIPS",
+            "10 SIT UPS",
+            "30 SECONDS PLANK",
+            "30 SQUATS",
+            "15 PUSH UPS",
+            "40 CRUNCHES",
+            "20 STANDING CALF RAISES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "100 JUMPING JACKS",
+            "25 VERTICAL LEG CRUNCHES",
+            "20 SQUATS",
+            "50 RUSSIAN TWISTS",
+            "15 SECOND SIDE PLANK (EACH SIDE)",
+            "10 LUNGE SPLIT JUMPS",
+            "5 JUMP SQUATS",
+            "40 HIGH KNEES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "80 JUMPING JACKS",
+            "20 VERTICAL LEG CRUNCHES (EACH LEG)",
+            "20 SIT UPS",
+            "15 TRICEP DIPS",
+            "20 SQUATS",
+            "15 LEG LIFTS (EACH LEG)",
+            "20 BICYCLES",
+            "30 SECONDS WALL SIT",
+            "30 RUSSIAN TWIST",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "90 JUMPING JACKS",
+            "20 TRICEP DIPS",
+            "10 SIT UPS",
+            "30 SECONDS PLANK",
+            "30 SQUATS",
+            "15 PUSH UPS",
+            "20 CRUNCHES",
+            "20 STANDING CALF RAISES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "100 JUMPING JACKS",
+            "25 VERTICAL LEG CRUNCHES",
+            "20 SQUATS",
+            "50 RUSSIAN TWISTS",
+            "15 SECOND SIDE PLANK (EACH SIDE)",
+            "10 LUNGE SPLIT JUMPS",
+            "5 JUMP SQUATS",
+            "40 HIGH KNEES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "45 JUMPING JACKS",
+            "20 CRUNCHES",
+            "20 TRICEP DIPS",
+            "15 SQUATS",
+            "20 LUNGES (EACH LEG)",
+            "30 RUSSIAN TWISTS",
+            "20 STANDING CALF RAISES",
+            "5 PUSH UPS",
+            "30 SECONDS PLANK",
+            "10 LUNGE SPLIT JUMPS",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "80 JUMPING JACKS",
+            "20 VERTICAL LEG CRUNCHES (EACH LEG)",
+            "20 SIT UPS",
+            "15 TRICEP DIPS",
+            "20 SQUATS",
+            "15 LEG LIFTS (EACH LEG)",
+            "20 BICYCLES",
+            "30 SECONDS WALL SIT",
+            "30 RUSSIAN TWIST",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "90 JUMPING JACKS",
+            "20 TRICEP DIPS",
+            "10 SIT UPS",
+            "30 SECONDS PLANK",
+            "30 SQUATS",
+            "15 PUSH UPS",
+            "20 CRUNCHES",
+            "20 STANDING CALF RAISES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "100 JUMPING JACKS",
+            "25 VERTICAL LEG CRUNCHES",
+            "20 SQUATS",
+            "50 RUSSIAN TWISTS",
+            "15 SECOND SIDE PLANK (EACH SIDE)",
+            "10 LUNGE SPLIT JUMPS",
+            "5 JUMP SQUATS",
+            "40 HIGH KNEES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "45 JUMPING JACKS",
+            "15 SQUATS",
+            "5 JUMP SQUATS",
+            "30 RUSSIAN TWISTS",
+            "30 SECONDS PLANK",
+            "10 STANDING CALF RAISES",
+            "5 PUSH UPS",
+            "10 LUNGES (EACH LEG)",
+            "20 CRUNCHES",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "50 JUMPING JACKS",
+            "20 SQUATS",
+            "50 RUSSIAN TWISTS",
+            "5 KNEELING PUSH UPS",
+            "15 JACK KNIFE SIT UPS",
+            "10 LUNGES (EACH LEG)",
+            "10 SIDE LUNGES (EACH SIDE)",
+            "REPEAT X2"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "45 JUMPING JACKS",
+            "15 SQUATS",
+            "5 JUMP SQUATS",
+            "50 RUSSIAN TWISTS",
+            "30 SECONDS PLANK",
+            "10 STANDING CALF RAISES",
+            "5 PUSH UPS",
+            "10 LUNGES (EACH LEG)",
+            "REPEAT X2"
+          ]
+        }
+      ],
+      "Advanced": [
+        {
+          "time": 120,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS 10",
+            "20 PUSHUPS",
+            "DUMBBELL FLYS",
+            "LYING DUMBBELL PRESS",
+            "DUMBBELL ROW",
+            "REAR LATERAL RAISES",
+            "STIFF LEGGED DUMBBELL DEADLIFTS",
+            "DEADLIFTS"
+          ]
+        },
+        {
+          "time": 120,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "ARNOLD PRESS",
+            "SEATED DUMBBELL PRESS",
+            "SIDE LATERAL RAISES",
+            "BENT OVER REAR DELT RAISES",
+            "20 CRUNCHES",
+            "20 SITUPS",
+            "20 SCISSOR CRUNCHES"
+          ]
+        },
+        {
+          "time": 120,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "BICEP CURLS",
+            "HAMMER CURLS",
+            "BICEP CURLS",
+            "ONE ARM TRICEP EXTENSION",
+            "TRICEP PULLDOWN"
+          ]
+        },
+        {
+          "time": 180,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "BARBELL SQUATS",
+            "WALKING LUNGES",
+            "KETTLEBELL SWINGS",
+            "30 SECOND PLANK",
+            "SIDE CRUNCHES (BOTH SIDE)",
+            "RUSSIAN TWISTS"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "SQUATS",
+            "ROMANIAN DEADLIFTS",
+            "SUMO SQUATS",
+            "STANDING CALF RAISES",
+            "BULGARIAN SPLIT SQUAT"
+          ]
+        },
+        {
+          "time": 1800,
+          "lbsTotal": 0,
+          "exlist": [
+            "30 MINUTE CARDIO"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 120,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS 10",
+            "20 PUSHUPS",
+            "DUMBBELL FLYS",
+            "LYING DUMBBELL PRESS",
+            "DUMBBELL ROW",
+            "REAR LATERAL RAISES",
+            "STIFF LEGGED DUMBBELL DEADLIFTS",
+            "DEADLIFTS"
+          ]
+        },
+        {
+          "time": 120,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "ARNOLD PRESS",
+            "SEATED DUMBBELL PRESS",
+            "SIDE LATERAL RAISES",
+            "BENT OVER REAR DELT RAISES",
+            "20 CRUNCHES",
+            "20 SITUPS",
+            "20 SCISSOR CRUNCHES"
+          ]
+        },
+        {
+          "time": 120,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "BICEP CURLS",
+            "HAMMER CURLS",
+            "BICEP CURLS",
+            "ONE ARM TRICEP EXTENSION",
+            "TRICEP PULLDOWN"
+          ]
+        },
+        {
+          "time": 180,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "BARBELL SQUATS",
+            "WALKING LUNGES",
+            "KETTLEBELL SWINGS",
+            "30 SECOND PLANK",
+            "SIDE CRUNCHES (BOTH SIDE)",
+            "RUSSIAN TWISTS"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "SQUATS",
+            "ROMANIAN DEADLIFTS",
+            "SUMO SQUATS",
+            "STANDING CALF RAISES",
+            "BULGARIAN SPLIT SQUAT"
+          ]
+        },
+        {
+          "time": 1800,
+          "lbsTotal": 0,
+          "exlist": [
+            "30 MINUTE CARDIO"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS 12",
+            "20 PUSHUPS",
+            "DUMBBELL FLYS",
+            "LYING DUMBBELL PRESS",
+            "DUMBBELL ROW",
+            "REAR LATERAL RAISES",
+            "STIFF LEGGED DUMBBELL DEADLIFTS",
+            "DEADLIFTS"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12",
+            "ARNOLD PRESS",
+            "SEATED DUMBBELL PRESS",
+            "SIDE LATERAL RAISES",
+            "BENT OVER REAR DELT RAISES",
+            "20 CRUNCHES",
+            "20 SITUPS",
+            "20 SCISSOR CRUNCHES"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12",
+            "BICEP CURLS",
+            "HAMMER CURLS",
+            "BICEP CURLS",
+            "ONE ARM TRICEP EXTENSION",
+            "TRICEP PULLDOWN"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12",
+            "BARBELL SQUATS",
+            "WALKING LUNGES",
+            "KETTLEBELL SWINGS",
+            "30 SECOND PLANK",
+            "SIDE CRUNCHES (BOTH SIDE)",
+            "RUSSIAN TWISTS"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12",
+            "SQUATS",
+            "ROMANIAN DEADLIFTS",
+            "SUMO SQUATS",
+            "STANDING CALF RAISES",
+            "BULGARIAN SPLIT SQUAT"
+          ]
+        },
+        {
+          "time": 1800,
+          "lbsTotal": 0,
+          "exlist": [
+            "30 MINUTE CARDIO"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS 12",
+            "20 PUSHUPS",
+            "DUMBBELL FLYS",
+            "LYING DUMBBELL PRESS",
+            "DUMBBELL ROW",
+            "REAR LATERAL RAISES",
+            "STIFF LEGGED DUMBBELL DEADLIFTS",
+            "DEADLIFTS"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12",
+            "ARNOLD PRESS",
+            "SEATED DUMBBELL PRESS",
+            "SIDE LATERAL RAISES",
+            "BENT OVER REAR DELT RAISES",
+            "20 CRUNCHES",
+            "20 SITUPS",
+            "20 SCISSOR CRUNCHES"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12",
+            "BICEP CURLS",
+            "HAMMER CURLS",
+            "BICEP CURLS",
+            "ONE ARM TRICEP EXTENSION",
+            "TRICEP PULLDOWN"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12",
+            "BARBELL SQUATS",
+            "WALKING LUNGES",
+            "KETTLEBELL SWINGS",
+            "30 SECOND PLANK",
+            "SIDE CRUNCHES (BOTH SIDE)",
+            "RUSSIAN TWISTS"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12",
+            "SQUATS",
+            "ROMANIAN DEADLIFTS",
+            "SUMO SQUATS",
+            "STANDING CALF RAISES",
+            "BULGARIAN SPLIT SQUAT"
+          ]
+        },
+        {
+          "time": 1800,
+          "lbsTotal": 0,
+          "exlist": [
+            "30 MINUTE CARDIO"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12",
+            "ARNOLD PRESS",
+            "SEATED DUMBBELL PRESS",
+            "SIDE LATERAL RAISES",
+            "BENT OVER REAR DELT RAISES",
+            "20 CRUNCHES",
+            "20 SITUPS",
+            "20 SCISSOR CRUNCHES"
+          ]
+        },
+        {
+          "time": 240,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12",
+            "BICEP CURLS",
+            "HAMMER CURLS",
+            "BICEP CURLS",
+            "ONE ARM TRICEP EXTENSION",
+            "TRICEP PULLDOWN"
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Bodybuilding",
+      "Beginner": [
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10 OR TILL FAILURE",
+            "LEG PRESS",
+            "SEATED HAMSTRING CURL",
+            "LYING LEG CURL",
+            "LEG EXTENSION",
+            "HACK SQUAT"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "DUMBBELL CHEST PRESS",
+            "INCLINE DUMBBELL FLY",
+            "TRICEP ROPE PRESS DOWN",
+            "BODY WEIGHT BENCH DIPS",
+            "REVERSE GEIP TRICE PRESS DOWNS"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "REVERSE LAT PULLDOWN",
+            "T-BAR ROWS",
+            "BENT OVER ROW",
+            "BACK EXTENSION",
+            "ALTERNATING BICEP CURL",
+            "BARBELL CURL",
+            "DUMBBELL HAMMER CURL"
+
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12-15",
+            "DUMBBELL SHOULDER PRESS",
+            "DUMBBELL LATERAL RAISES",
+            "UPRIGHT ROWS (WIDE. MEDIUM AND NARROW GRIP)",
+            "DUMBBELL FRONT RAISES",
+            "BENT OVER LATERAL RAISE"
+
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12",
+            "ARNOLD PRESS",
+            "SEATED DUMBBELL PRESS",
+            "SIDE LATERAL RAISES",
+            "BENT OVER REAR DELT RAISES",
+            "20 CRUNCHES",
+            "20 SITUPS",
+            "20 SCISSOR CRUNCHES"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 20 OR TILL FAILURE",
+            "LEG EXTENSION",
+            "DUMBBELL SQUAT",
+            "LYING LEG CURL",
+            "LEG PRESS",
+            "SEATED HAMSTRING CURL",
+            "LEG EXTENSION"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 20",
+            "ALTERNATING DUMBBELL CURL",
+            "HAMMER CURLS",
+            "BARBELL CURLS",
+            "TRICEP DIPS",
+            "TRICEP CABLE PULL DOWN",
+            "REVERSE TRICEP CABLE PULL DOWN"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 15",
+            "T-BAR ROW",
+            "LAT PRESSDOWN",
+            "DUMBBELL ROW",
+            "CABLE MACHINE ROW",
+            "RUSSIAN TWIST",
+            "V CRUNCHES"
+
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 15",
+            "DUMBBELL SIDE LATERAL RAISE",
+            "DUMBBELL FRONT RAISE",
+            "BARBELL SHOULDER PRESS",
+            "CABLE ROPE FACE PULLS",
+            "AB BALL TWIST",
+            "WEIGHTED SIT UPS"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "DUMBBELL CHEST PRESS",
+            "INCLINE DUMBBELL FLY",
+            "TRICEP ROPE PRESS DOWN",
+            "BODY WEIGHT BENCH DIPS",
+            "REVERSE GEIP TRICE PRESS DOWNS"
+
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10 OR TILL FAILURE",
+            "LEG PRESS",
+            "SEATED HAMSTRING CURL",
+            "LYING LEG CURL",
+            "LEG EXTENSION",
+            "HACK SQUAT"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "DUMBBELL CHEST PRESS",
+            "INCLINE DUMBBELL FLY",
+            "TRICEP ROPE PRESS DOWN",
+            "BODY WEIGHT BENCH DIPS",
+            "REVERSE GEIP TRICE PRESS DOWNS"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "T-BAR ROWS",
+            "LAT PRESS DOWN",
+            "DUMBBELL ROW",
+            "BARBELL ROW",
+            "CABLE MACHINE ROW"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12-15",
+            "DUMBBELL SHOULDER PRESS",
+            "DUMBBELL LATERAL RAISES",
+            "UPRIGHT ROWS (WIDE. MEDIUM AND NARROW GRIP)",
+            "DUMBBELL FRONT RAISES",
+            "BENT OVER LATERAL RAISE"
+
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 20 OR TILL FAILURE",
+            "LEG EXTENSION",
+            "DUMBBELL SQUAT",
+            "LYING LEG CURL",
+            "LEG PRESS",
+            "SEATED HAMSTRING CURL",
+            "LEG EXTENSION"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "DUMBBELL CHEST PRESS",
+            "INCLINE DUMBBELL FLY",
+            "TRICEP ROPE PRESS DOWN",
+            "BODY WEIGHT BENCH DIPS",
+            "REVERSE GEIP TRICE PRESS DOWNS"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 20",
+            "ALTERNATING DUMBBELL CURL",
+            "HAMMER CURLS",
+            "BARBELL CURLS",
+            "TRICEP DIPS",
+            "TRICEP CABLE PULL DOWN",
+            "REVERSE TRICEP CABLE PULL DOWN"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "T-BAR ROWS",
+            "LAT PRESS DOWN",
+            "DUMBBELL ROW",
+            "BARBELL ROW",
+            "CABLE MACHINE ROW"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 15",
+            "DUMBBELL SIDE LATERAL RAISE",
+            "DUMBBELL FRONT RAISE",
+            "BARBELL SHOULDER PRESS",
+            "CABLE ROPE FACE PULLS",
+            "AB BALL TWIST",
+            "WEIGHTED SIT UPS"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "DUMBBELL CHEST PRESS",
+            "INCLINE DUMBBELL FLY",
+            "TRICEP ROPE PRESS DOWN",
+            "BODY WEIGHT BENCH DIPS",
+            "REVERSE GEIP TRICE PRESS DOWNS"
+
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10 OR TILL FAILURE",
+            "LEG PRESS",
+            "SEATED HAMSTRING CURL",
+            "LYING LEG CURL",
+            "LEG EXTENSION",
+            "HACK SQUAT"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "T-BAR ROWS",
+            "LAT PRESS DOWN",
+            "DUMBBELL ROW",
+            "BARBELL ROW",
+            "CABLE MACHINE ROW"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12-15",
+            "DUMBBELL SHOULDER PRESS",
+            "DUMBBELL LATERAL RAISES",
+            "UPRIGHT ROWS (WIDE. MEDIUM AND NARROW GRIP)",
+            "DUMBBELL FRONT RAISES",
+            "BENT OVER LATERAL RAISE"
+
+          ]
+        }
+      ],
+      "Intermediate": [
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "STRAIGHT-LEGGED DEADLIFT",
+            "STANDING LEG CURL",
+            "SEATED LEG CURL",
+            "LEG EXTENSION",
+            "LEG PRESS",
+            "JUMPING LUNGE"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "BARBELL BENCH PRESS",
+            "INCLINE DUMBBELL PRESS",
+            "FLAT DUMBBELL FLY",
+            "BAR DIP",
+            "PUSH UP"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12",
+            "PULL UP",
+            "LAT PULL-DOWN",
+            "CABLE ROW",
+            "CABLE PULL-OVER",
+            "REVERSE-GRIP LAT PULL-DOWN",
+            "DUMBBELL CURLS",
+            "HAMMER CURLS",
+            "SEATED PREACHER CURLS"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "SEATED LEG CURLS",
+            "STIFF-LEG DEADLIFT",
+            "REVERSE BARBELL LUNGES",
+            "WALKING DUMBBELL LUNGES",
+            "CABLE KICKBACKS",
+            "STANDING CALF RAISES"
+
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "DUMBBELL CURL",
+            "BARBELL CURL",
+            "SEATED INCLINE BICEP CURL",
+            "SKULLCRUSHER",
+            "DUMBBELL KICK-BACK",
+            "TRICEP PUSH-DOWN WITH ROPE"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "STRAIGHT-LEGGED DEADLIFT",
+            "STANDING LEG CURL",
+            "SEATED LEG CURL",
+            "LEG EXTENSION",
+            "LEG PRESS",
+            "JUMPING LUNGE"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "BARBELL BENCH PRESS",
+            "INCLINE DUMBBELL PRESS",
+            "FLAT DUMBBELL FLY",
+            "BAR DIP",
+            "PUSH UP"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "SEATED LEG CURLS",
+            "STIFF-LEG DEADLIFT",
+            "REVERSE BARBELL LUNGES",
+            "WALKING DUMBBELL LUNGES",
+            "CABLE KICKBACKS",
+            "STANDING CALF RAISES"
+
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "DUMBBELL CURL",
+            "BARBELL CURL",
+            "SEATED INCLINE BICEP CURL",
+            "SKULLCRUSHER",
+            "DUMBBELL KICK-BACK",
+            "TRICEP PUSH-DOWN WITH ROPE"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12",
+            "PULL UP",
+            "LAT PULL-DOWN",
+            "CABLE ROW",
+            "CABLE PULL-OVER",
+            "REVERSE-GRIP LAT PULL-DOWN"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "BARBELL BENCH PRESS",
+            "INCLINE DUMBBELL PRESS",
+            "FLAT DUMBBELL FLY",
+            "BAR DIP",
+            "PUSH UP"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "STRAIGHT-LEGGED DEADLIFT",
+            "STANDING LEG CURL",
+            "SEATED LEG CURL",
+            "LEG EXTENSION",
+            "LEG PRESS",
+            "JUMPING LUNGE"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "DUMBBELL CURL",
+            "BARBELL CURL",
+            "SEATED INCLINE BICEP CURL",
+            "SKULLCRUSHER",
+            "DUMBBELL KICK-BACK",
+            "TRICEP PUSH-DOWN WITH ROPE"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12",
+            "PULL UP",
+            "LAT PULL-DOWN",
+            "CABLE ROW",
+            "CABLE PULL-OVER",
+            "REVERSE-GRIP LAT PULL-DOWN"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "BARBELL BENCH PRESS",
+            "INCLINE DUMBBELL PRESS",
+            "FLAT DUMBBELL FLY",
+            "BAR DIP",
+            "PUSH UP"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "STRAIGHT-LEGGED DEADLIFT",
+            "STANDING LEG CURL",
+            "SEATED LEG CURL",
+            "LEG EXTENSION",
+            "LEG PRESS",
+            "JUMPING LUNGE"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "DUMBBELL CURL",
+            "BARBELL CURL",
+            "SEATED INCLINE BICEP CURL",
+            "SKULLCRUSHER",
+            "DUMBBELL KICK-BACK",
+            "TRICEP PUSH-DOWN WITH ROPE"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12",
+            "PULL UP",
+            "LAT PULL-DOWN",
+            "CABLE ROW",
+            "CABLE PULL-OVER",
+            "REVERSE-GRIP LAT PULL-DOWN"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "BARBELL BENCH PRESS",
+            "INCLINE DUMBBELL PRESS",
+            "FLAT DUMBBELL FLY",
+            "BAR DIP",
+            "PUSH UP"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "SEATED LEG CURLS",
+            "STIFF-LEG DEADLIFT",
+            "REVERSE BARBELL LUNGES",
+            "WALKING DUMBBELL LUNGES",
+            "CABLE KICKBACKS",
+            "STANDING CALF RAISES"
+
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10-12",
+            "DUMBBELL CURL",
+            "BARBELL CURL",
+            "SEATED INCLINE BICEP CURL",
+            "SKULLCRUSHER",
+            "DUMBBELL KICK-BACK",
+            "TRICEP PUSH-DOWN WITH ROPE"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 12",
+            "PULL UP",
+            "LAT PULL-DOWN",
+            "CABLE ROW",
+            "CABLE PULL-OVER",
+            "REVERSE-GRIP LAT PULL-DOWN"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        }
+      ],
+      "Advanced": [
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "SEATED DUMBBELL PRESS",
+            "DUMBBELL LATERAL RAISE",
+            "DUMBBELL SHRUG",
+            "TRICEP CABLE PULLDOWN",
+            "ONE ARM TRICEP PULLDOWN",
+            "CRUNCHES"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "HAMMER PULLDOWN",
+            "REVERSE GRIP HAMMER PULLDOWN",
+            "BARBELL ROW",
+            "SEATED CABLE ROW",
+            "BENT OVER LATERAL RAISE",
+            "BACK EXTENSION",
+            "DEADLIFT"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "INCLINE DUMBBELL PRESS",
+            "INCLINE DUMBBELL FLY",
+            "FLAT BENCH PRESS",
+            "PECK DECK FLY",
+            "DUMBBELL PULLOVER"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "LEG EXTENSION",
+            "LEG PRESS",
+            "HACK SQUAT",
+            "LYING LEG CURL",
+            "STIFF LEG DEADLIFT",
+            "STANDING CALF RAISE",
+            "SEATING CALF RAISE"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "DUMBBELL LATERAL RAISE",
+            "BENT-OVER REVERSE CABLE FLY",
+            "BARBELL FRONT RAISE",
+            "UPRIGHT BARBELL ROW",
+            "PRISON PUSH-UP",
+            "EZ-BAR CURL",
+            "DUMBBELL SKULLCRUSHER",
+            "BENCH DIP",
+            "SEATED HAMMER CURL"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "DUMBBELL CURL",
+            "BARBELL CURL",
+            "SEATED INCLINE BICEP CURL",
+            "SKULLCRUSHER",
+            "DUMBBELL KICK-BACK",
+            "TRICEP PUSH-DOWN WITH ROPE"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "CRUNCHES",
+            "FLAT BENCH LYING LEG RAISE",
+            "CABLE CRUNCH",
+            "RUSSIAN TWIST",
+            "PLANK"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "SEATED DUMBBELL PRESS",
+            "DUMBBELL LATERAL RAISE",
+            "DUMBBELL SHRUG",
+            "TRICEP CABLE PULLDOWN",
+            "ONE ARM TRICEP PULLDOWN",
+            "CRUNCHES"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "HAMMER PULLDOWN",
+            "REVERSE GRIP HAMMER PULLDOWN",
+            "BARBELL ROW",
+            "SEATED CABLE ROW",
+            "BENT OVER LATERAL RAISE",
+            "BACK EXTENSION",
+            "DEADLIFT"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "INCLINE DUMBBELL PRESS",
+            "INCLINE DUMBBELL FLY",
+            "FLAT BENCH PRESS",
+            "PECK DECK FLY",
+            "DUMBBELL PULLOVER"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "LEG EXTENSION",
+            "LEG PRESS",
+            "HACK SQUAT",
+            "LYING LEG CURL",
+            "STIFF LEG DEADLIFT",
+            "STANDING CALF RAISE",
+            "SEATING CALF RAISE"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "DUMBBELL LATERAL RAISE",
+            "BENT-OVER REVERSE CABLE FLY",
+            "BARBELL FRONT RAISE",
+            "UPRIGHT BARBELL ROW",
+            "PRISON PUSH-UP",
+            "EZ-BAR CURL",
+            "DUMBBELL SKULLCRUSHER",
+            "BENCH DIP",
+            "SEATED HAMMER CURL"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "DUMBBELL CURL",
+            "BARBELL CURL",
+            "SEATED INCLINE BICEP CURL",
+            "SKULLCRUSHER",
+            "DUMBBELL KICK-BACK",
+            "TRICEP PUSH-DOWN WITH ROPE"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "CRUNCHES",
+            "FLAT BENCH LYING LEG RAISE",
+            "CABLE CRUNCH",
+            "RUSSIAN TWIST",
+            "PLANK"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "SEATED DUMBBELL PRESS",
+            "DUMBBELL LATERAL RAISE",
+            "DUMBBELL SHRUG",
+            "TRICEP CABLE PULLDOWN",
+            "ONE ARM TRICEP PULLDOWN",
+            "CRUNCHES"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "HAMMER PULLDOWN",
+            "REVERSE GRIP HAMMER PULLDOWN",
+            "BARBELL ROW",
+            "SEATED CABLE ROW",
+            "BENT OVER LATERAL RAISE",
+            "BACK EXTENSION",
+            "DEADLIFT"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "INCLINE DUMBBELL PRESS",
+            "INCLINE DUMBBELL FLY",
+            "FLAT BENCH PRESS",
+            "PECK DECK FLY",
+            "DUMBBELL PULLOVER"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "LEG EXTENSION",
+            "LEG PRESS",
+            "HACK SQUAT",
+            "LYING LEG CURL",
+            "STIFF LEG DEADLIFT",
+            "STANDING CALF RAISE",
+            "SEATING CALF RAISE"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "DUMBBELL LATERAL RAISE",
+            "BENT-OVER REVERSE CABLE FLY",
+            "BARBELL FRONT RAISE",
+            "UPRIGHT BARBELL ROW",
+            "PRISON PUSH-UP",
+            "EZ-BAR CURL",
+            "DUMBBELL SKULLCRUSHER",
+            "BENCH DIP",
+            "SEATED HAMMER CURL"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "DUMBBELL CURL",
+            "BARBELL CURL",
+            "SEATED INCLINE BICEP CURL",
+            "SKULLCRUSHER",
+            "DUMBBELL KICK-BACK",
+            "TRICEP PUSH-DOWN WITH ROPE"
+          ]
+        },
+        {
+          "time": 300,
+          "lbsTotal": 0,
+          "exlist": [
+            "3 SETS OF 10",
+            "CRUNCHES",
+            "FLAT BENCH LYING LEG RAISE",
+            "CABLE CRUNCH",
+            "RUSSIAN TWIST",
+            "PLANK"
+          ]
+        },
+        {
+          "time": 0,
+          "lbsTotal": 0,
+          "exlist": [
+            "REST"
+          ]
+        }
+      ]
+    }
+  ]
+}
