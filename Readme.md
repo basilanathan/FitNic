@@ -14,17 +14,17 @@ Fitnic is an iOS app, powered by swift and firebase.
 
 <p float="left">
 
-  <img src="https://raw.githubusercontent.com/basilanathan/FitNic/master/screenshots/Intro.png" width="200" height="400">
-  <img src="https://raw.githubusercontent.com/basilanathan/FitNic/master/screenshots/Challenge.png" width="200" height="400">
-  <img src="https://raw.githubusercontent.com/basilanathan/FitNic/master/screenshots/Calendar.png" width="200" height="400">
-  <img src="https://raw.githubusercontent.com/basilanathan/FitNic/master/screenshots/List.png" width="200" height="400">
+  <img src="https://github.com/basilanathan/FitNic/blob/master/Screenshots/Intro.png" width="200" height="400">
+  <img src="https://github.com/basilanathan/FitNic/blob/master/Screenshots/Challenge.png" width="200" height="400">
+  <img src="hhttps://github.com/basilanathan/FitNic/blob/master/Screenshots/Calendar.png" width="200" height="400">
+  <img src="https://github.com/basilanathan/FitNic/blob/master/Screenshots/List.png" width="200" height="400">
 
 </p>
 
-<!-- ![](https://raw.githubusercontent.com/basilanathan/FitNic/master/screenshots/Intro.png)
-![](https://raw.githubusercontent.com/basilanathan/FitNic/master/screenshots/Challenge.png)
-![](https://raw.githubusercontent.com/basilanathan/FitNic/master/screenshots/Calendar.png)
-![](https://raw.githubusercontent.com/basilanathan/FitNic/master/screenshots/List.png) -->
+<!-- ![](https://github.com/basilanathan/FitNic/blob/master/Screenshots/Intro.png)
+![](https://github.com/basilanathan/FitNic/blob/master/Screenshots/Challenge.png)
+![](https://github.com/basilanathan/FitNic/blob/master/Screenshots/Calendar.png)
+![](https://github.com/basilanathan/FitNic/blob/master/Screenshots/List.png) -->
 
 ## Author
 
