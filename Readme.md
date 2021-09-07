@@ -16,7 +16,7 @@ Fitnic is an iOS app, powered by swift and firebase.
 
   <img src="https://github.com/basilanathan/FitNic/blob/master/Screenshots/Intro.png" width="200" height="400">
   <img src="https://github.com/basilanathan/FitNic/blob/master/Screenshots/Challenge.png" width="200" height="400">
-  <img src="hhttps://github.com/basilanathan/FitNic/blob/master/Screenshots/Calendar.png" width="200" height="400">
+  <img src="https://github.com/basilanathan/FitNic/blob/master/Screenshots/Calendar.png" width="200" height="400">
   <img src="https://github.com/basilanathan/FitNic/blob/master/Screenshots/List.png" width="200" height="400">
 
 </p>
