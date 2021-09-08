@@ -20,7 +20,7 @@ Fitnic is an iOS app, powered by swift and firebase.
   <img src="https://github.com/basilanathan/FitNic/blob/master/Screenshots/ChooseChallenge.png" width="200" height="400">
   <img src="https://github.com/basilanathan/FitNic/blob/master/Screenshots/Calendar.png" width="200" height="400">
   <img src="https://github.com/basilanathan/FitNic/blob/master/Screenshots/List.png" width="200" height="400">
-  <img src="https://github.com/basilanathan/FitNic/blob/master/Screenshots/Timer.png.png" width="200" height="400">
+  <img src="https://github.com/basilanathan/FitNic/blob/master/Screenshots/Timer.png" width="200" height="400">
 
 </p>
 
@@ -30,7 +30,7 @@ Fitnic is an iOS app, powered by swift and firebase.
 ![](https://github.com/basilanathan/FitNic/blob/master/Screenshots/ChooseChallenge.png)
 ![](https://github.com/basilanathan/FitNic/blob/master/Screenshots/Calendar.png)
 ![](https://github.com/basilanathan/FitNic/blob/master/Screenshots/List.png)
-![](https://github.com/basilanathan/FitNic/blob/master/Screenshots/Timer.png.png) -->
+![](https://github.com/basilanathan/FitNic/blob/master/Screenshots/Timer.png) -->
 
 ## Author
 
